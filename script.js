@@ -45,7 +45,9 @@ form.onsubmit = (event) => {
     localStorage.setItem("expenses", JSON.stringify(expenses));
 
     expenseAdd(newExpense, true);
+
     formClear();
+
 };
 
 function expenseAdd(newExpense, updateStorage = true) {
