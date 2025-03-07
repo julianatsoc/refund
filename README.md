@@ -2,6 +2,9 @@
 
 Este é um projeto de gerenciamento de despesas desenvolvido em JavaScript. A interface foi baseada no design disponibilizado no Figma pela Rocketseat. Além das funcionalidades propostas, implementei o **localStorage** para persistir os dados das despesas, permitindo que elas sejam mantidas mesmo após o fechamento ou recarregamento da página.
 
+![Gerenciador de tarefas](https://repository-images.githubusercontent.com/933393997/78446c01-f615-4d4b-8394-abcfd1a58ae1)
+
+
 ## 🚀 Funcionalidades
 
 - **➕ Adição de Despesas**
